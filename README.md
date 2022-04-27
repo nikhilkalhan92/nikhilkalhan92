@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @nikhilkalhan92
-- 👀 I’m interested in HTML5, CSS, Javascript, Python,  Full Stack and E-commerce. ...
-- 🌱 I’m currently learning Diploma in Full Stack Software via the Code Institute 
-Development - I am undertaking 5 Milestone projects in the following: HTML, CSS, Javascript, Python,  Full Stack and Ecommerce...
-- 💞️ I’m looking to collaborate on HTML, CSS, Javascript, Python,  Full Stack and Ecommerce....
-- 📫 How to reach me nkalhan@hotmail.co.uk...
+Hi, my name is Nikhil Kalhan
+
+I am currently working in finance, but I realised that this wasnt for me and I needed a change
+
+One quick google search and here I am on signing up to Code Institute....learning and coding about HTML/CSS/JS/PYTHON & more
+
+I am so glad I made the change, I have one thing left to say lets do the work
+
+
 
 <!---
 nikhilkalhan92/nikhilkalhan92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
