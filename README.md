@@ -1,10 +1,11 @@
 Hi, my name is Nikhil Kalhan
 
-I am currently working in finance, but I realised that this wasnt for me and I needed a change
+The Code Institute
+- Diploma: Full Stack Software Development (SCQF Level 8/EQF Level 5) – Grade = Pass
 
-One quick google search and here I am on signing up to Code Institute....learning and coding about HTML/CSS/JS/PYTHON & more
+- Modules: HTML5/CSS3, JavaScript, Python, Full Stack, Ecommerce
 
-I am so glad I made the change, I have one thing left to say lets do the work
+- Programming Experience: Bootstrap, Flask, Django, jQuery, Heroku, GitHub, React, Mongo, Visual Studio
 
 
 
