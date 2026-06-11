@@ -33,18 +33,20 @@ Today, I work as a **Python Developer**, focusing on building backend systems, A
 </p>
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Summary Cards
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkalhan92&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkalhan92&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkalhan92&theme=tokyonight" />
 </p>
 
-## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilkalhan92&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilkalhan92&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilkalhan92&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilkalhan92&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilkalhan92&theme=tokyonight&utcOffset=0" />
 </p>
 
 ## 📈 Contribution Graph
