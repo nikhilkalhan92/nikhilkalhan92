@@ -41,15 +41,17 @@ Today, I work as a **Python Developer**, focusing on building backend systems, A
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkalhan92&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkalhan92&theme=tokyonight&no-bg=true&margin-w=10"/>
+  <img src="https://streak-stats.demolab.com?user=nikhilkalhan92&theme=tokyonight" />
 </p>
 
----
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkalhan92&theme=tokyo-night" />
+</p>
 
 ## 🔗 Connect With Me
 
