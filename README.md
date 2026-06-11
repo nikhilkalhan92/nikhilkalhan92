@@ -35,6 +35,12 @@ Today, I work as a **Python Developer**, focusing on building backend systems, A
 ---
 ## 📊 GitHub Summary Cards
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhilkalhan92&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkalhan92&theme=tokyonight" />
 </p>
@@ -53,6 +59,10 @@ Today, I work as a **Python Developer**, focusing on building backend systems, A
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkalhan92&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilkalhan92&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ## 🔗 Connect With Me
